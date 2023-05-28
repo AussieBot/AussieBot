@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 📂 Made by @NotAussie.
+- 📂 Made by [@NotAussie](https://github.com/notaussie).
 - ⚙️ Made in Python.
 - 👀 Watching selected repo(s).
-- 📬 Contact at: [NotAussie](https://guilded.gg/u/notaussie) on Guilded.
+- 📬 Contact at: [@NotAussie](https://guilded.gg/u/notaussie) on Guilded.
