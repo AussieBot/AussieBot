@@ -8,5 +8,5 @@
 - ⚙️ Made in Python.
 - 👀 Watching selected repo(s).
 - 🤖 Automated "machine" account.
-- 📂 [Open source](https://github.com/AussieBot/AussieBot/tree/main/Code).
+- 📂 [Open source](https://github.com/cardboard-ink/aussiebot).
 - 📷 Logo from Microsoft's [Fluentui Emoji](https://github.com/microsoft/fluentui-emoji).
