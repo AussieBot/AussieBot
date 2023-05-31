@@ -7,5 +7,5 @@
 - 👤 Made by [@NotAussie](https://github.com/notaussie).
 - ⚙️ Made in Python.
 - 👀 Watching selected repo(s).
-- 🤖 This is an automated "machine" account.
+- 🤖 Automated "machine" account.
 - 📂 Open source.
