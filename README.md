@@ -3,8 +3,7 @@
 </p>
 
 # Hi there 👋
-
-- 👤 Made by [@NotAussie](https://github.com/notaussie).
+- 👤 Owned by [@NotAussie](https://github.com/notaussie) & [@CardBoard](https://github.com/cardboard-ink).
 - ⚙️ Made in Python.
 - 👀 Watching selected repo(s).
 - 🤖 Automated "machine" account.
