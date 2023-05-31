@@ -8,4 +8,4 @@
 - ⚙️ Made in Python.
 - 👀 Watching selected repo(s).
 - 🤖 Automated "machine" account.
-- 📂 Open source.
+- 📂 [Open source](https://github.com/AussieBot/AussieBot/tree/main/Code).
